@@ -75,7 +75,7 @@
     font-weight: 500;
 }
 
-@media(max-width: 320px) {
+@media(max-width: 600px) {
     .navbar .max-width{
         position: relative;
     }
